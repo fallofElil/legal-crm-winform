@@ -85,6 +85,7 @@
             this.pswdTB.Name = "pswdTB";
             this.pswdTB.Size = new System.Drawing.Size(211, 20);
             this.pswdTB.TabIndex = 4;
+            this.pswdTB.UseSystemPasswordChar = true;
             // 
             // imgLock
             // 
